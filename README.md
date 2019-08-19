@@ -8,9 +8,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/AbazaSeif/electron-jqueryui-quick-start.git
+git clone https://github.com/AbazaSeif/electron-jquery-style.git
 # Go into the repository
-cd electron-jqueryui-quick-start
+cd electron-jquery-style
 # Install dependencies
 npm install
 # Run the app
