@@ -1,6 +1,6 @@
 {
-  "name": "electron-jqueryui-quick-start",
-  "description": "A minimal Electron application with jQuery UI integration",
+  "name": "electron-quick-start",
+  "description": "",
   "main": "main.js",
   "authors": [
     "RedR00t"
