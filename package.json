@@ -15,6 +15,6 @@
 	"dependencies": {
 		"jquery": "^3.2.1",
 		"metro4": "^4.2.48",
-		"node-notifier": "^5.4.3"
+		"node-notifier": ">=8.0.1"
 	}
 }
